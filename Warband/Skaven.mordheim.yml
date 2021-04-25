@@ -13,22 +13,22 @@ equipment:
 # M6, WS6, BS6, S4, T4, W3, I7, A4, Ld7
 heros:
     - hero: Kureen Deepscream (Adept) [20XP]
-      stats: M3, WS5, BS4, S3, T4, W1, I3, A1, Ld10, Sv-
+      stats: M6, WS4, BS4, S4, T33, W1, I5, A1, L7, Sv-
       skilllists: Combat, Shooting, Academic, Strength, Special
-      weapons: Axe, Axe
-      armour: Helmet, Light Armour, Lucky Charm
-      rules: Leader, Blackblood, Expert Axeman, Tactician
-      warbandaddition: 5
+      weapons: Spear, Sling
+      armour: Shield
+      rules: Leader, Perfect Killer
+      warbandaddition: 0
       # Skill wishlist:
-      # * Two-Weapon Master (ignore -2 to hit for offhand)
-      # * Money Maker (D6+2 GC after battle)
+      # * 
+      # * 
 
     - hero: Floki (Apprentice Runesmith) [8XP]
       skilllists: Combat, Academic, Strength, Special
-      stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Axe, Dagger
-      armour: Helmet, Heavy Armour, Lucky Charm
-      rules: Extra Set Of Hands, Skilled Driver, Haggle
+      stats: M6, WS4, BS4, S4, T4, W1, I5, A1, Ld7, Sv-
+      weapons: Spear
+      armour: Shield
+      rules: Leader, Perfect Killer
 
     - hero: Bjørn (Troll Slayer) [15XP]
       skilllists: Combat, Academic, Strength, Special
