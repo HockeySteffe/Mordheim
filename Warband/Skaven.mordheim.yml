@@ -1,20 +1,18 @@
-warband: The Revolting Dwarfs (Dwarf Rangers)
+warband: The Silence (Clan Eschin, Stefan)
 active: true
-campaign: 11
-objective: The Lure of Fortune
-alignment: Lawful/Neutral
-achievments: |
-    Land Train
-    Silk Trader
-gc: 78
-shards: 2
-equipment: Lucky Charm
+campaign: 1
+objective: Grab all the Wyrdstones
+alignment: godlike
+achievments: 
+gc: 5
+shards: 0
+equipment: 
 
-# Max 12 units
-# Racial maximums (Dwarfs):
-# M3, WS7, BS6, S4, T5, W3, I5, A4, Ld10
+# Max 20 units
+# Racial maximums (Skaven):
+# M6, WS6, BS6, S4, T4, W3, I7, A4, Ld7
 heros:
-    - hero: Ragnar (Runesmith) [32XP]
+    - hero: Kureen Deepscream (Adept) [20XP]
       stats: M3, WS5, BS4, S3, T4, W1, I3, A1, Ld10, Sv-
       skilllists: Combat, Shooting, Academic, Strength, Special
       weapons: Axe, Axe
