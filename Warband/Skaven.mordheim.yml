@@ -23,7 +23,7 @@ heros:
       # * 
       # * 
 
-    - hero: Kureen Deepscream (Adept) [20XP]
+    - hero: Kureen Deepscream (Sorcerer) [8XP]
       stats: M6, WS4, BS4, S4, T33, W1, I5, A1, Ld7, Sv-
       skilllists: Combat, Shooting, Academic, Strength, Special
       weapons: Spear, Sling
@@ -34,12 +34,50 @@ heros:
       # * 
       # * 
 
-    - hero: Bjørn (Troll Slayer) [15XP]
-      skilllists: Combat, Academic, Strength, Special
-      stats: M3, WS5, BS3, S3, T4, W1, I2, A1, Ld10, Sv-
-      weapons: Dwarf Axe, Dagger
-      armour: Lucky Charm
-      rules: Deathwish, Fearsome
+    - hero: Kureen Deepscream (Black Skaven) [20XP]
+      stats: M6, WS4, BS4, S4, T33, W1, I5, A1, Ld7, Sv-
+      skilllists: Combat, Shooting, Academic, Strength, Special
+      weapons: Spear, Sling
+      armour: Shield
+      rules: Leader, Perfect Killer
+      warbandaddition: 0
+      # Skill wishlist:
+      # * 
+      # * 
+
+    - hero: Kureen Deepscream (Black Skaven) [20XP]
+      stats: M6, WS4, BS4, S4, T33, W1, I5, A1, Ld7, Sv-
+      skilllists: Combat, Shooting, Academic, Strength, Special
+      weapons: Spear, Sling
+      armour: Shield
+      rules: Leader, Perfect Killer
+      warbandaddition: 0
+      # Skill wishlist:
+      # * 
+      # * 
+
+    - hero: Kureen Deepscream (Night Runner) [20XP]
+      stats: M6, WS4, BS4, S4, T33, W1, I5, A1, Ld7, Sv-
+      skilllists: Combat, Shooting, Academic, Strength, Special
+      weapons: Spear, Sling
+      armour: Shield
+      rules: Leader, Perfect Killer
+      warbandaddition: 0
+      # Skill wishlist:
+      # * 
+      # * 
+
+    - hero: Kureen Deepscream (Night runner) [20XP]
+      stats: M6, WS4, BS4, S4, T33, W1, I5, A1, Ld7, Sv-
+      skilllists: Combat, Shooting, Academic, Strength, Special
+      weapons: Spear, Sling
+      armour: Shield
+      rules: Leader, Perfect Killer
+      warbandaddition: 0
+      # Skill wishlist:
+      # * 
+      # * 
+
 
 henchmen:
     - group: Beard Mob (4 Beardling) [13XP]
