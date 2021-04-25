@@ -85,11 +85,6 @@ henchmen:
       weapons: Axe, Dagger
       armour: Helmet
 
-    - group: Veskit (3 Verminkin) [3XP]
-      stats: M3, WS4, BS3, S3, T4, W1, I2, A2, Ld8, Sv-
-      weapons: Axe, Dagger
-      armour: Helmet
-
     - group: Veskit (2 Verminkin) [3XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A2, Ld8, Sv-
       weapons: Axe, Dagger
