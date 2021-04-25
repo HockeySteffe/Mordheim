@@ -1,6 +1,8 @@
 warband: The Silence (Clan Eshin) 
 active: true
-campaign: 3
+campaign: 11
+objective: The Lure of Fortune
+alignment: Lawful/Neutral
 achievments: 
 gc: 0
 shards: 0
