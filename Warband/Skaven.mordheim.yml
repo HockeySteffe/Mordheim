@@ -80,11 +80,30 @@ heros:
 
 
 henchmen:
-    - group: Beard Mob (4 Beardling) [13XP]
+    - group: Veskit (3 Verminkin) [3XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A2, Ld8, Sv-
+      weapons: Axe, Dagger
+      armour: Helmet
+
+    - group: Veskit (3 Verminkin) [3XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A2, Ld8, Sv-
+      weapons: Axe, Dagger
+      armour: Helmet
+
+    - group: Veskit (2 Verminkin) [3XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A2, Ld8, Sv-
+      weapons: Axe, Dagger
+      armour: Helmet
+
+    - group: Veskit (2 Verminkin) [3XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A2, Ld8, Sv-
+      weapons: Axe, Dagger
+      armour: Helmet
+
+    - group: Veskit (1 Giant rats) [0XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A2, Ld8, Sv-
       weapons: Axe, Dagger
       armour: Helmet
 
 notes: |
-    Inscribe rune before battle
     Blackblood (Ragnar) = Anyone in base contact got S3 hit if wounded
